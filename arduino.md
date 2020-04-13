@@ -34,7 +34,7 @@ Visit the [Microsoft Store official page](https://www.microsoft.com/en-us/p/ardu
 
 --- ---
 ## UBUNTU 
-Download the latest version of the Arduino IDE from the Arduino website (here) as a tarball.
+Download the latest version of the Arduino IDE from the [Arduino website](https://www.arduino.cc/en/Main/Software) as a tarball.
 
 In order to extract the files we need from the tarball, we can open a terminal, `cd` to where the downloaded tarball is, then run
 ```Shell
